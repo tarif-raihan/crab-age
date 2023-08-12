@@ -1,5 +1,4 @@
 # crab-age-prediction
-Context
 The dataset is used to estimate the age of the crab based on the physical attributes. Its a great starting point for classical regression analysis and feature engineering and understand the impact of feature engineering in Data Science domain.
 
 Content
